@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularMVC5", "AngularMVC5\AngularMVC5.csproj", "{D81BABDD-F0AD-424B-BC44-80F048083F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81BABDD-F0AD-424B-BC44-80F048083F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81BABDD-F0AD-424B-BC44-80F048083F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81BABDD-F0AD-424B-BC44-80F048083F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81BABDD-F0AD-424B-BC44-80F048083F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F343D585-F747-4BE5-8C51-EFC57C99124D}
+	EndGlobalSection
+EndGlobal
